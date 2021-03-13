@@ -5,7 +5,7 @@
 
 Looking for a nice and fun project to be involve? Look this project I'm looking for help!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fboucher&repo=azurlshortener&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fboucher&repo=azurlshortener&theme=react)](https://github.com/FBoucher/AzUrlShortener)
 
 ### Reach-out!
 - **Twitter**  [@fboucheros](https://twitter.com/fboucheros)
